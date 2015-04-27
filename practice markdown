@@ -1,0 +1,13 @@
+Mark down practice
+---
+title: "R Programming Course Notes"
+author: "Xing Su"
+output:
+  html_document:
+    highlight: pygments
+    theme: spacelab
+    toc: yes
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+---
